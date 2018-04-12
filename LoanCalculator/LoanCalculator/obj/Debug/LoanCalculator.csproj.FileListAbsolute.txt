@@ -1,0 +1,7 @@
+C:\Users\Francis\source\repos\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.exe.config
+C:\Users\Francis\source\repos\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.exe
+C:\Users\Francis\source\repos\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.pdb
+C:\Users\Francis\source\repos\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Francis\source\repos\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Francis\source\repos\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.exe
+C:\Users\Francis\source\repos\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.pdb
